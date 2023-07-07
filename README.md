@@ -11,7 +11,7 @@
 
 **My 1st Original Data Project (Sheets / Excel)**
     
-    Data Project Part 1A: [Cleaning and Compiling Assessment Data](url)
+    Data Project Part 1A: [Cleaning and Compiling Assessment Data](https://watch.screencastify.com/v/SqzrEKSd5UNLmXquBIKK)
     
     Data Project Part 1B: Sorting Assessment Data
 
