@@ -5,9 +5,9 @@
 - 👀 I’m interested in learning more about SQL and Data Visualization. I will secure my first Data Analyst role before the end of 2023.
 
 **My 1st SQL Projects through CoRise:**
--   Week #1: AirBnB Sydney (https://colab.research.google.com/drive/1nDRQD7wCx_btq-2pssUAzCLPAlYRgiBN?usp=sharing)
+-   Week #1: [AirBnB Sydney](https://colab.research.google.com/drive/1nDRQD7wCx_btq-2pssUAzCLPAlYRgiBN?usp=sharing).
     
-    Week #2: AirBnB Sydney (https://colab.research.google.com/drive/1Ym0yOakmL1qif5aHdrOEgicI3KKGKn6N?usp=sharing)
+    Week #2: [AirBnB Sydney](https://colab.research.google.com/drive/1Ym0yOakmL1qif5aHdrOEgicI3KKGKn6N?usp=sharing).
 
 **My 1st Original Data Project (Sheets / Excel)**
     
