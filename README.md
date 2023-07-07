@@ -10,8 +10,10 @@
     Week #2: https://colab.research.google.com/drive/1Ym0yOakmL1qif5aHdrOEgicI3KKGKn6N?usp=sharing
 
 **My 1st Original Data Project (Sheets / Excel)**
+    
     Data Project Part 1A: [Cleaning and Compiling Assessment Data](url)
-    Dat Project Part 1B: Sorting Assessment Data
+    
+    Data Project Part 1B: Sorting Assessment Data
 
 - 📫 How to reach me: MoniseSeward@gmail.com
 
