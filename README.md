@@ -11,18 +11,26 @@
 
 ## **[Data Visualization with Tableau](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79462872)**
 
-**Skills Acquired:** filtering | visualizations | data storytelling | Tableau | bar charts | pie charts | histograms | maps
+**Skills Focus Area:** Filtering | visualizations | data storytelling | Tableau | bar charts | pie charts | histograms | maps
 
     Project Week #1: [AirBnB Sydney](https://colab.research.google.com/drive/1nDRQD7wCx_btq-2pssUAzCLPAlYRgiBN?usp=sharing)
     
     Project Week #2: [AirBnB Sydney](https://colab.research.google.com/drive/1Ym0yOakmL1qif5aHdrOEgicI3KKGKn6N?usp=sharing) 
     
  ## **Data Cleaning in SQL: Prepare Data for Analysis**
- **Skills Acquired:** Case statements | Nulls | detect & remove duplicates
+ **Skills Focus Area:** Case statements | Nulls | detect & remove duplicates
  
 ## **[Introduction to Data Analysis Using Excel](https://coursera.org/share/f8c05004f75a151f02ac34b0f0fca6fc)**
 
-**Skills Acquired:** IF | VLookup | Pivot Tables | filtering | sorting
+**Skills Focus Area:** IF | VLookup | Pivot Tables | filtering | sorting
+
+##**Data Cleaning in Excel: Techniques to Clean Messy Data**
+
+**Skill Focus Area:** Data cleaning & formatting
+
+##**Finding, Sorting, & Filtering Data in Microsoft Excel**
+
+**Skill Focus Area:** Data sorting, filtering, & manipulating
 
 
 <!---
