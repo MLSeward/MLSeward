@@ -2,7 +2,7 @@
   
 - Math Teacher :abacus: | Spreadsheet Maker :ledger:| Data Enthusiast | All-around Problem Solver :bulb: 
 
-- 👀 I’m interested in learning more about SQL and Data Visualization. I will secure my first Data Analyst role before the end of 2023.
+- 👀 I’m interested in learning more about SQL and Data Visualization. I will secure my first Data Analyst role before my August birthday!
 
 **My 1st SQL Projects through CoRise:**
 -   Week #1: [AirBnB Sydney](https://colab.research.google.com/drive/1nDRQD7wCx_btq-2pssUAzCLPAlYRgiBN?usp=sharing).
