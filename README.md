@@ -24,11 +24,11 @@
 
 **Skills Focus Area:** IF | VLookup | Pivot Tables | filtering | sorting
 
-##**Data Cleaning in Excel: Techniques to Clean Messy Data**
+## **Data Cleaning in Excel: Techniques to Clean Messy Data**
 
 **Skill Focus Area:** Data cleaning & formatting
 
-##**Finding, Sorting, & Filtering Data in Microsoft Excel**
+## **Finding, Sorting, & Filtering Data in Microsoft Excel**
 
 **Skill Focus Area:** Data sorting, filtering, & manipulating
 
