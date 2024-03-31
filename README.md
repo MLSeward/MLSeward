@@ -2,12 +2,20 @@
   
 - Math Teacher :abacus: | Spreadsheet Maker :ledger:| Data Enthusiast | All-around Problem Solver :bulb: 
 
-- 👀 I started learning about SQL and Data Visualization last Summer (2023) through a CoRise (now Uplimit) Bootcamp. I’m interested in learning more during the next few months to better prepare for my first 'official' Data Analyst role. My goal is to join a dynamic Data team in an organization that can recognize people who are eager to learn, grow, and contribute
+- 👀 I started learning about SQL and Data Visualization last Summer (2023) through an Uplimit Bootcamp. I’m interested in learning more during the next few months to better prepare for my first 'official' Data Analyst role.
+
+I have also been juggling a full-time job, part-time job, and coaching Volleyball for 5 months. BTW: The 7th grade team I coached won the championship for our region! 
+
+As a result of juggling all of those responsibilities, I have a limited amount of time to continue practicing, creating projects, and keeping my Git updated. I am certain that once I land a full-time role working with data, I will be able to quickly build upon those skills while contributing to a team/department.
+
+My goal is to join a dynamic organization that can recognize people who are eager to learn, grow, and contribute.
 
  📫 How to reach me: MoniseSeward@gmail.com
 
 
 # **DATA COURSES & PROJECTS**
+
+All courses and projects are linked to either a certificate of completion or video showcasing a completed project.
 
 ## **[Data Visualization with Tableau](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79462872)**
 
