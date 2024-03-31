@@ -19,7 +19,7 @@ All courses and projects are linked to either a certificate of completion or vid
 
 ## **[Data Visualization with Tableau](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79462872)**
 
-**Skills Focus Area:** Filtering | visualizations | data storytelling | Tableau | bar charts | pie charts | histograms | maps
+**Skills Focus Area:** SQL | Filtering | visualizations | data storytelling | Tableau | bar charts | pie charts | histograms | maps
 
     Project Week #1: [AirBnB Sydney](https://colab.research.google.com/drive/1nDRQD7wCx_btq-2pssUAzCLPAlYRgiBN?usp=sharing)
     
