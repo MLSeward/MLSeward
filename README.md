@@ -2,7 +2,7 @@
   
 - Math Teacher :abacus: | Spreadsheet Maker :ledger:| Data Enthusiast | All-around Problem Solver :bulb: 
 
-- 👀 I’m interested in learning more about SQL and Data Visualization. I will secure my first Data Analyst role before my August birthday!
+- 👀 I started learning about SQL and Data Visualization last Summer (2023) through a CoRise (now Uplimit) Bootcamp. I’m interested in learning more during the next few months to better prepare for my first 'official' Data Analyst role. My goal is to join a dynamic Data team in an organization that can recognize people who are eager to learn, grow, and contribute!
 
 **My 1st SQL Projects through CoRise:**
 -   Week #1: [AirBnB Sydney](https://colab.research.google.com/drive/1nDRQD7wCx_btq-2pssUAzCLPAlYRgiBN?usp=sharing).
