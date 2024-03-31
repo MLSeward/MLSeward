@@ -32,7 +32,7 @@ All courses and projects are linked to either a certificate of completion or vid
 
 **Skills Focus Area:** IF | VLookup | Pivot Tables | filtering | sorting
 
-## **Data Cleaning in Excel: Techniques to Clean Messy Data**
+## **{Data Cleaning in Excel: Techniques to Clean Messy Data}(https://drive.google.com/file/d/1whvLcHVg2A8AMSwZch1FuDepmxDItXWl/view?usp=sharing)**
 
 **Skill Focus Area:** Data cleaning & formatting
 
