@@ -6,14 +6,14 @@
 
 **DATA COURSES & PROJECTS**
 
-**[Data Visualization with Tableau](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79462872).**
+**[Data Visualization with Tableau](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79462872)**
     
-    Project Week #1: [AirBnB Sydney](https://colab.research.google.com/drive/1nDRQD7wCx_btq-2pssUAzCLPAlYRgiBN?usp=sharing).
+    Project Week #1: [AirBnB Sydney](https://colab.research.google.com/drive/1nDRQD7wCx_btq-2pssUAzCLPAlYRgiBN?usp=sharing)
     
-    Project Week #2: [AirBnB Sydney](https://colab.research.google.com/drive/1Ym0yOakmL1qif5aHdrOEgicI3KKGKn6N?usp=sharing).
+    Project Week #2: [AirBnB Sydney](https://colab.research.google.com/drive/1Ym0yOakmL1qif5aHdrOEgicI3KKGKn6N?usp=sharing)
     
     
-**[Introduction to Data Analysis Using Excel](https://coursera.org/share/f8c05004f75a151f02ac34b0f0fca6fc).**
+**[Introduction to Data Analysis Using Excel](https://coursera.org/share/f8c05004f75a151f02ac34b0f0fca6fc)**
     
 
  📫 How to reach me: MoniseSeward@gmail.com
