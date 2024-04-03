@@ -21,7 +21,7 @@ All courses and projects are linked to either a certificate of completion or vid
 
 **Skills Focus Area:** SQL | Filtering | visualizations | data storytelling | Tableau | bar charts | pie charts | histograms | maps
 
-    Project Week #1: [Open in Google Colab](https://colab.research.google.com/drive/1nDRQD7wCx_btq-2pssUAzCLPAlYRgiBN?usp=sharing)
+    Project Week #1: [Launching Air BnB - Sydney](url).
 
     Project Week #2: [AirBnB Sydney](https://drive.google.com/colab.research.google.com/drive/1Ym0yOakmL1qif5aHdrOEgicI3KKGKn6N?usp=sharing) 
     
