@@ -2,7 +2,7 @@
   
 - Math Teacher :abacus: | Spreadsheet Maker :ledger:| Data Enthusiast | All-around Problem Solver :bulb: 
 
-- 👀 I started learning about SQL and Data Visualization last Summer (2023) through an Uplimit Bootcamp. I’m interested in learning more during the next few months to better prepare for my first 'official' Data Analyst role.
+- 👀 I started learning about SQL and Data Visualization last Summer (2023) through an Uplimit Bootcamp. I’m interested in continuing my learning to better prepare for my first 'official' Data Analyst role.
 
 I have also been juggling a full-time job, part-time job, and coaching Volleyball for 5 months. BTW: The 7th grade team I coached won the championship for our region! 
 
