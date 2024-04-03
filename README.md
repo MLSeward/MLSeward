@@ -6,9 +6,9 @@
 
 I have also been juggling a full-time job, part-time job, and coaching Volleyball for 5 months. BTW: The 7th grade team I coached won the championship for our region! 
 
-As a result of managing those responsibilities, I have a limited amount of time to commit to practicing, creating projects, and keeping my Git updated. I am certain that once I land a full-time role working with data, I will be able to quickly build upon those skills while contributing to a team/department.
+As a result of managing those responsibilities, I have an ever-growing 'To Learn' list and I am making use of every extra minute to practice, create projects, and keep my Git updated. I am certain that once I land a full-time role working with data, I will be able to quickly build upon those skills while contributing to a team/department.
 
-My goal is to join a dynamic organization that can recognize that I am eager to learn, grow, and contribute.
+My goal is to join a dynamic organization that will recognize that I am eager to learn, grow, and contribute.
 
  📫 How to reach me: MoniseSeward@gmail.com
 
