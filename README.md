@@ -33,9 +33,6 @@ All courses and projects are linked to either a certificate of completion or vid
 
 **Skill Focus Area:** Data cleaning & formatting
 
-## **Finding, Sorting, & Filtering Data in Microsoft Excel**
-
-**Skill Focus Area:** Data sorting, filtering, & manipulating
 
 
 <!---
