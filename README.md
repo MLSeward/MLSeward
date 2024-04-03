@@ -21,11 +21,7 @@ All courses and projects are linked to either a certificate of completion or vid
 
 **Skills Focus Area:** SQL | Filtering | visualizations | data storytelling | Tableau | bar charts | pie charts | histograms | maps
 
-    Project Week #1: [Launching Air BnB - Sydney](https://colab.research.google.com/drive/1nDRQD7wCx_btq-2pssUAzCLPAlYRgiBN?usp=sharing).
-
-    Project Week #2: [AirBnB Sydney][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/1nDRQD7wCx_btq-2pssUAzCLPAlYRgiBN?usp=sharing).
-
-    
+   
  ## **Data Cleaning in SQL: Prepare Data for Analysis**
  **Skills Focus Area:** Case statements | Nulls | detect & remove duplicates
  
