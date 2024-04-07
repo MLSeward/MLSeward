@@ -31,9 +31,14 @@ All courses and projects are linked to either a certificate of completion or vid
 
 ## **[Data Cleaning in Excel: Techniques to Clean Messy Data](https://drive.google.com/file/d/1whvLcHVg2A8AMSwZch1FuDepmxDItXWl/view?usp=sharing)**
 
-**Skill Focus Area:** Data cleaning & formatting
+**Skills Focus Area:** Data cleaning & formatting
 
+## **[Get and Transform Data with Power BI (Learning Path]**
+### [Get Data in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/3FE3RSKH?sharingId=A1A283E4301CA7A8)**
+**Skills Focus Area:**  Retrieve data from a variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores.
 
+## **[Clean, Transform, and Load Data in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/HRFHE4P8?sharingId=A1A283E4301CA7A8)**
+**Skills Focus Area:** Resolve inconsistencies, unexpected or null values, and data quality issues | Profile data | Evaluate and transform column data types | Apply data shape transformations | Combine queries | Edit M code in the Advanced Editor
 
 <!---
 MLSeward/MLSeward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
