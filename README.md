@@ -13,7 +13,7 @@ My goal is to join a dynamic organization that will recognize that I am eager to
  📫 How to reach me: MoniseSeward@gmail.com
 
 
-# **DATA COURSES & PROJECTS**
+:books: **DATA COURSES & PROJECTS**
 
 All courses and projects are linked to either a certificate of completion or video showcasing a completed project.
 
