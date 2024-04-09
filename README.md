@@ -17,7 +17,7 @@ My goal is to join a dynamic organization that will recognize that I am eager to
 
 All courses and projects are linked to either a certificate of completion or video showcasing a completed project.
 
-## **[Data Visualization with Tableau](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79462872)**
+ :bar_chart: **[Data Visualization with Tableau](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79462872)**
 
 **Skills Focus Area:** SQL | Filtering | visualizations | data storytelling | Tableau | bar charts | pie charts | histograms | maps
 
@@ -25,7 +25,7 @@ All courses and projects are linked to either a certificate of completion or vid
  ## **Data Cleaning in SQL: Prepare Data for Analysis**
  **Skills Focus Area:** Case statements | Nulls | detect & remove duplicates
  
-## **[Introduction to Data Analysis Using Excel](https://coursera.org/share/f8c05004f75a151f02ac34b0f0fca6fc)**
+:chart_with_downwards_trend: **[Introduction to Data Analysis Using Excel](https://coursera.org/share/f8c05004f75a151f02ac34b0f0fca6fc)**
 
 **Skills Focus Area:** IF | VLookup | Pivot Tables | filtering | sorting
 
