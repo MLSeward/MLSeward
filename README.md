@@ -13,7 +13,7 @@ My goal is to join a dynamic organization that will recognize that I am eager to
  📫 How to reach me: MoniseSeward@gmail.com
 
 
-:books: ## **DATA COURSES & PROJECTS** ##
+## :books: **DATA COURSES & PROJECTS** ##
 
 All courses and projects are linked to either a certificate of completion or video showcasing a completed project.
 
@@ -22,18 +22,19 @@ All courses and projects are linked to either a certificate of completion or vid
 **Skills Focus Area:** SQL | Filtering | visualizations | data storytelling | Tableau | bar charts | pie charts | histograms | maps
 
    
- ## **Data Cleaning in SQL: Prepare Data for Analysis**
+ # **Data Cleaning in SQL: Prepare Data for Analysis** #
  **Skills Focus Area:** Case statements | Nulls | detect & remove duplicates
  
 :chart_with_downwards_trend: **[Introduction to Data Analysis Using Excel](https://coursera.org/share/f8c05004f75a151f02ac34b0f0fca6fc)**
 
 **Skills Focus Area:** IF | VLookup | Pivot Tables | filtering | sorting
 
-## **[Data Cleaning in Excel: Techniques to Clean Messy Data](https://drive.google.com/file/d/1whvLcHVg2A8AMSwZch1FuDepmxDItXWl/view?usp=sharing)**
+# **[Data Cleaning in Excel: Techniques to Clean Messy Data](https://drive.google.com/file/d/1whvLcHVg2A8AMSwZch1FuDepmxDItXWl/view?usp=sharing)** #
 
 **Skills Focus Area:** Data cleaning & formatting
 
-## :computer: **[Get and Transform Data with Power BI - Learning Path](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/CNHC2MQ9?sharingId=A1A283E4301CA7A8)**
+# :computer: **[Get and Transform Data with Power BI - Learning Path](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/CNHC2MQ9?sharingId=A1A283E4301CA7A8)** #
+
 ## **[Get Data in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/3FE3RSKH?sharingId=A1A283E4301CA7A8)**
 **Skills Focus Area:**  Retrieve data from a variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores.
 
