@@ -44,7 +44,7 @@ All courses and projects are linked to either a certificate of completion or vid
 
 **[Get Data in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/3FE3RSKH?sharingId=A1A283E4301CA7A8)** 
 
-**Skills Focus Area:**  Retrieve data from a variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores.
+**Skills Focus Area:**  Retrieve data from data sources: Microsoft Excel | Relational Databases | NoSQL data stores
 
 **[Clean, Transform, and Load Data in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/HRFHE4P8?sharingId=A1A283E4301CA7A8)** 
 
