@@ -13,7 +13,7 @@ My goal is to join a dynamic organization that will recognize that I am eager to
  📫 How to reach me: MoniseSeward@gmail.com
 
 
-:books: **DATA COURSES & PROJECTS**
+:books: ## **DATA COURSES & PROJECTS** ##
 
 All courses and projects are linked to either a certificate of completion or video showcasing a completed project.
 
@@ -33,7 +33,7 @@ All courses and projects are linked to either a certificate of completion or vid
 
 **Skills Focus Area:** Data cleaning & formatting
 
-## **[Get and Transform Data with Power BI - Learning Path](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/CNHC2MQ9?sharingId=A1A283E4301CA7A8)**
+## :computer: **[Get and Transform Data with Power BI - Learning Path](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/CNHC2MQ9?sharingId=A1A283E4301CA7A8)**
 ## **[Get Data in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/3FE3RSKH?sharingId=A1A283E4301CA7A8)**
 **Skills Focus Area:**  Retrieve data from a variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores.
 
