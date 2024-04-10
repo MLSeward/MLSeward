@@ -1,12 +1,14 @@
 👋Hi, I’m Monise.
   
-:four_leaf_clover:Proud Notre Dame Alumna |:abacus:Math Teacher|:ledger:Spreadsheet Maker| Data Enthusiast| :bulb: All-around Problem Solver
+:four_leaf_clover: Proud Notre Dame Alumna :abacus: Math Teacher
+:ledger: Spreadsheet Maker & Data Enthusiast
+:bulb: All-around Problem Solver
 
 👀 I started learning about SQL and Data Visualization last Summer (2023) through an Uplimit Bootcamp. I’m interested in continuing my learning to better prepare for my first 'official' Data Analyst role.
 
 I have also been juggling a full-time job, part-time job, and coaching Volleyball for 5 months. BTW: The 7th grade team I coached won the championship for our region! 
 
-As a result of managing those responsibilities, I have an ever-growing 'To Learn' list and I am making use of every extra minute to practice, create projects, and keep my Git updated. I am certain that once I land a full-time role working with data, I will be able to quickly build upon those skills while contributing to a team/department.
+In addition to managing those responsibilities, I have an ever-growing 'To Learn' list! I am making use of every extra minute to practice, create projects, and keep my Git updated. I am certain that once I land a full-time role as a Data Analyst, I will be able to quickly build upon those skills while contributing to a team/department.
 
 My goal is to join a dynamic organization that will recognize that I am eager to learn, grow, and contribute.
 
@@ -22,23 +24,23 @@ All courses and projects are linked to either a certificate of completion or vid
 **Skills Focus Area:** SQL | Filtering | visualizations | data storytelling | Tableau | bar charts | pie charts | histograms | maps
 
    
- # **Data Cleaning in SQL: Prepare Data for Analysis** #
+  **Data Cleaning in SQL: Prepare Data for Analysis** 
  **Skills Focus Area:** Case statements | Nulls | detect & remove duplicates
  
 :chart_with_downwards_trend: **[Introduction to Data Analysis Using Excel](https://coursera.org/share/f8c05004f75a151f02ac34b0f0fca6fc)**
 
 **Skills Focus Area:** IF | VLookup | Pivot Tables | filtering | sorting
 
-# **[Data Cleaning in Excel: Techniques to Clean Messy Data](https://drive.google.com/file/d/1whvLcHVg2A8AMSwZch1FuDepmxDItXWl/view?usp=sharing)** #
+**[Data Cleaning in Excel: Techniques to Clean Messy Data](https://drive.google.com/file/d/1whvLcHVg2A8AMSwZch1FuDepmxDItXWl/view?usp=sharing)** 
 
 **Skills Focus Area:** Data cleaning & formatting
 
-# :computer: **[Get and Transform Data with Power BI - Learning Path](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/CNHC2MQ9?sharingId=A1A283E4301CA7A8)** 
+:computer: **[Get and Transform Data with Power BI - Learning Path](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/CNHC2MQ9?sharingId=A1A283E4301CA7A8)** 
 
-# **[Get Data in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/3FE3RSKH?sharingId=A1A283E4301CA7A8)** #
+**[Get Data in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/3FE3RSKH?sharingId=A1A283E4301CA7A8)** 
 **Skills Focus Area:**  Retrieve data from a variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores.
 
-# **[Clean, Transform, and Load Data in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/HRFHE4P8?sharingId=A1A283E4301CA7A8)** #
+**[Clean, Transform, and Load Data in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/MoniseSeward-1666/HRFHE4P8?sharingId=A1A283E4301CA7A8)** 
 **Skills Focus Area:** Resolve inconsistencies, unexpected or null values, and data quality issues | Profile data | Evaluate and transform column data types | Apply data shape transformations | Combine queries | Edit M code in the Advanced Editor
 
 <!---
