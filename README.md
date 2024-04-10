@@ -1,4 +1,4 @@
-👋Hi, I’m Monise.
+👋🏾Hi, I’m Monise.
   
 :four_leaf_clover: Proud Notre Dame Alumna 
 
